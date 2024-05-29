@@ -1,0 +1,246 @@
+Name,Role,IsCaptain,IsForeignPlayer,Team,ImageUrl
+Ruturaj Gaikwad,Batter,Y,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png
+Devon Conway,Batter,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png
+MS Dhoni,WK Keeper - Batter,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png
+Ajinkya Rahane,Batter,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/44.png
+Shaik Rasheed,Batter,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/778.png
+Sameer Rizvi,Batter,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1229.png
+Avanish Rao Aravelly,Batter,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2794.png
+Ravindra Jadeja,All-Rounder,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png
+Mitchell Santner,All-Rounder,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/75.png
+Moeen Ali,All-Rounder,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png
+Shivam Dube,All-Rounder,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png
+Nishant Sindhu,All-Rounder,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/791.png
+Ajay Mandal,All-Rounder,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png
+Rachin Ravindra,All-Rounder,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/724.png
+Shardul Thakur,All-Rounder,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/105.png
+Daryl Mitchell,All-Rounder,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/83.png
+Rajvardhan Hangargekar,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png
+Deepak Chahar,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png
+Maheesh Theekshana,Bowler,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/629.png
+Mukesh Choudhary,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png
+Mustafizur Rahman,Bowler,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/258.png
+Prashant Solanki,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/972.png
+Simarjeet Singh,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/622.png
+Tushar Deshpande,Bowler,N,N,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png
+Matheesha Pathirana,Bowler,N,Y,Chennai Super Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1014.png
+Rishabh Pant,WK Keeper - Batter,Y,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+David Warner,Batter,N,Y,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/214.png
+Prithvi Shaw,Batter,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/51.png
+Yash Dhull,Batter,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/777.png
+Shai Hope,Batter,N,Y,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Swastik Chhikara,Batter,N,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Abishek Porel,Batter,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1580.png
+Harry Brook,Batter,N,Y,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Ricky Bhui,Batter,N,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Kumar Kushagra,Batter,N,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Tristan Stubbs,Batter,N,Y,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Axar Patel,All-Rounder,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/110.png
+Lalit Yadav,All-Rounder,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/538.png
+Mitchell Marsh,All-Rounder,N,Y,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/40.png
+Sumit Kumar,All-Rounder,N,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Pravin Dubey,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/548.png
+Vicky Ostwal,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/786.png
+Anrich Nortje,Bowler,N,Y,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/142.png
+Kuldeep Yadav,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/14.png
+Jake Fraser-McGurk,Bowler,N,Y,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Khaleel Ahmed,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/8.png
+Ishant Sharma,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/50.png
+Jhye Richardson,Bowler,N,Y,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Mukesh Kumar,Bowler,N,N,Delhi Capitals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1462.png
+Rasikh Dar,Bowler,N,N,Delhi Capitals,https://www.iplt20.com/assets/images/default-headshot.png
+Shubman Gill,Batter,Y,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/62.png
+David Miller,Batter,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/128.png
+Matthew Wade,Batter,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/549.png
+Wriddhiman Saha,WK Keeper - Batter,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/225.png
+Robin Minz,Batter,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Kane Williamson,Batter,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/65.png
+Abhinav Manohar,All-Rounder,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/974.png
+B. Sai Sudharsan,All-Rounder,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/976.png
+Darshan Nalkande,All-Rounder,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/127.png
+Vijay Shankar,All-Rounder,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/61.png
+Azmatullah Omarzai,All-Rounder,N,Y,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Shahrukh Khan,All-Rounder,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Jayant Yadav,Bowler,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/165.png
+Rahul Tewatia,Bowler,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/120.png
+Mohammad Shami,Bowler,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/47.png
+Kartik Tyagi,Bowler,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Sushant Mishra,Bowler,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Spencer Johnson,Bowler,N,Y,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Noor Ahmad,Bowler,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/975.png
+Sai Kishore,Bowler,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/544.png
+Umesh Yadav,Bowler,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Rashid Khan,Bowler,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/218.png
+Joshua Little,Bowler,N,Y,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/678.png
+Mohit Sharma,Bowler,N,N,Gujarat Titans,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/100.png
+Manav Suthar,Bowler,N,N,Gujarat Titans,https://www.iplt20.com/assets/images/default-headshot.png
+Shreyas Iyer,Batter,Y,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/12.png
+Rinku Singh,Batter,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/152.png
+Rahmanullah Gurbaz,Batter,N,Y,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/641.png
+Nitish Rana,Batter,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/148.png
+Sherfane Rutherford,Batter,N,Y,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Phil Salt,Batter,N,Y,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+K.S Bharat,Batter,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Manish Pandey,Batter,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Angkrish Raghuvanshi,Batter,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Anukul Roy,All-Rounder,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/160.png
+Ramandeep Singh,All-Rounder,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Andre Russell,All-Rounder,N,Y,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/141.png
+Venkatesh Iyer,All-Rounder,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/584.png
+Suyash Sharma,Bowler,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1932.png
+Mujeeb Ur Rahman,Bowler,N,Y,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Dushmantha Chameera,Bowler,N,Y,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Sakib Hussain,Bowler,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Harshit Rana,Bowler,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1013.png
+Sunil Narine,Bowler,N,Y,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/156.png
+Vaibhav Arora,Bowler,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/583.png
+Varun Chakaravarthy,Bowler,N,N,Kolkata Knight Riders,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/140.png
+Mitchell Starc,Bowler,N,Y,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+Chetan Sakariya,Bowler,N,N,Kolkata Knight Riders,https://www.iplt20.com/assets/images/default-headshot.png
+KL Rahul,Batter,Y,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/19.png
+Devdutt Padikkal,Batter,N,N,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Quinton de Kock,WK Keeper - Batter,N,Y,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/170.png
+Nicholas Pooran,Batter,N,Y,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/136.png
+Ashton Turner,Batter,N,Y,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Ayush Badoni,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/985.png
+Deepak Hooda,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/215.png
+Krishnappa Gowtham,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/179.png
+Krunal Pandya,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/17.png
+Kyle Mayers,All-Rounder,N,Y,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/726.png
+Marcus Stoinis,All-Rounder,N,Y,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/23.png
+Mohd. Arshad Khan,All-Rounder,N,N,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Prerak Mankad,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/998.png
+Yudhvir Singh,All-Rounder,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/587.png
+Arshin Kulkarni,All-Rounder,N,N,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+David Willey,All-Rounder,N,Y,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Shivam Mavi,Bowler,N,N,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Shamar Joseph,Bowler,N,Y,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Mayank Yadav,Bowler,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/987.png
+Mohsin Khan,Bowler,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/541.png
+Ravi Bishnoi,Bowler,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/520.png
+Yash Thakur,Bowler,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1550.png
+Amit Mishra,Bowler,N,N,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/107.png
+Naveen Ul Haq,Bowler,N,Y,Lucknow Super Giants,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/639.png
+M. Siddharth,Bowler,N,N,Lucknow Super Giants,https://www.iplt20.com/assets/images/default-headshot.png
+Rohit Sharma,Batter,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/6.png
+Dewald Brevis,Batter,N,Y,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/797.png
+Suryakumar Yadav,Batter,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/174.png
+Ishan Kishan,WK Keeper - Batter,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/164.png
+N. Tilak Varma,Batter,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/993.png
+Tim David,Batter,N,Y,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/636.png
+Vishnu Vinod,Batter,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/581.png
+Hardik Pandya,All-Rounder,Y,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Arjun Tendulkar,All-Rounder,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/585.png
+Mohammad Nabi,All-Rounder,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Romario Shepherd,All-Rounder,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Shams Mulani,All-Rounder,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/600.png
+Nehal Wadhera,All-Rounder,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1541.png
+Gerald Coetzee,All-Rounder,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Anshul Kamboj,All-Rounder,N,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Naman Dhir,All-Rounder,N,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Shivalik Sharma,All-Rounder,N,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Jasprit Bumrah,Bowler,N,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Piyush Chawla,Bowler,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/149.png
+Kumar Kartikeya Singh,Bowler,N,N,Mumbai Indians,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1015.png
+Akash Madhwal,Bowler,N,N,Mumbai Indians,https://assets.iplt20.com/ipl/IPLHeadshot2022/20681.png
+Luke Wood,Bowler,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Dilshan Madushanka,Bowler,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Shreyas Gopal,Bowler,N,N,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Nuwan Thushara,Bowler,N,Y,Mumbai Indians,https://www.iplt20.com/assets/images/default-headshot.png
+Shikhar Dhawan,Batter,Y,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/11.png
+Jitesh Sharma,WK Keeper - Batter,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1000.png
+Jonny Bairstow,Batter,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/216.png
+Prabhsimran Singh,Batter,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/137.png
+Liam Livingstone,Batter,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/183.png
+Harpreet Bhatia,Batter,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1934.png
+Rilee Rossouw,Batter,N,Y,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Shashank Singh,Batter,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Chris Woakes,All-Rounder,N,Y,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Vishwanath Pratap Singh,All-Rounder,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Ashutosh Sharma,All-Rounder,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Tanay Thyagarajann,All-Rounder,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Atharva Taide,All-Rounder,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1001.png
+Rishi Dhawan,All-Rounder,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/996.png
+Sam Curran,All-Rounder,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/138.png
+Sikandar Raza,All-Rounder,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/820.png
+Shivam singh,All-Rounder,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1936.png
+Prince Choudhary,Bowler,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Harpreet Brar,Bowler,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/130.png
+Arshdeep Singh,Bowler,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/125.png
+Kagiso Rabada,Bowler,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/116.png
+Nathan Ellis,Bowler,N,Y,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/633.png
+Rahul Chahar,Bowler,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/171.png
+Vidwath Kaverappa,Bowler,N,N,Punjab Kings,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1564.png
+Harshal Patel,Bowler,N,N,Punjab Kings,https://www.iplt20.com/assets/images/default-headshot.png
+Sanju Samson,WK Keeper - Batter,Y,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/190.png
+Jos Buttler,Batter,N,Y,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/182.png
+Shimron Hetmyer,Batter,N,Y,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/210.png
+Yashasvi Jaiswal,Batter,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/533.png
+Dhruv Jurel,Batter,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1004.png
+Riyan Parag,Batter,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/189.png
+Kunal Rathore,Batter,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1540.png
+Donovan Ferreira,Batter,N,Y,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2033.png
+Rovman Powell,Batter,N,Y,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Shubham Dubey,Batter,N,N,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Tom Kohler-Cadmore,Batter,N,Y,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Ravichandran Ashwin,All-Rounder,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/45.png
+Abid Mushtaq,All-Rounder,N,N,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Avesh Khan,Bowler,N,N,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Kuldeep Sen,Bowler,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1005.png
+Navdeep Saini,Bowler,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/207.png
+Prasidh Krishna,Bowler,N,N,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Sandeep Sharma,Bowler,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/220.png
+Trent Boult,Bowler,N,Y,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/66.png
+Yuzvendra Chahal,Bowler,N,N,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/10.png
+Adam Zampa,Bowler,N,Y,Rajasthan Royals,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/24.png
+Nandre Burger,Bowler,N,Y,Rajasthan Royals,https://www.iplt20.com/assets/images/default-headshot.png
+Faf du Plessis,Batter,Y,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png
+Rajat Patidar,Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png
+Virat Kohli,Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png
+Anuj Rawat,Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/534.png
+Dinesh Karthik,WK Keeper - Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png
+Suyash S Prabhudessai,Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/598.png
+Will Jacks,Batter,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1941.png
+Saurav Chuahan,Batter,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3114.png
+Glenn Maxwell,All-Rounder,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/28.png
+Mahipal Lomror,All-Rounder,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/184.png
+Karn Sharma,All-Rounder,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/98.png
+Cameron Green,All-Rounder,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/550.png
+Swapnil Singh,All-Rounder,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1483.png
+Mayank Dagar,All-Rounder,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1547.png
+Manoj Bhandage,All-Rounder,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1485.png
+Akash Deep,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1007.png
+Alzarri Joseph,Bowler,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/229.png
+Lockie Ferguson,Bowler,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png
+Mohammed Siraj,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png
+Yash Dayal,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/978.png
+Tom Curran,Bowler,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/309.png
+Reece Topley,Bowler,N,Y,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/574.png
+Himanshu Sharma,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1568.png
+Vyshak Vijay Kumar,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2034.png
+Rajan Kumar,Bowler,N,N,Royal Challengers Bangalore,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1503.png
+Abdul Samad,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/525.png
+Aiden Markram,Batter,N,Y,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/287.png
+Rahul Tripathi,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/188.png
+Glenn Phillips,Batter,N,Y,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/635.png
+Mayank Agarwal,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/55.png
+Anmolpreet Singh,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/159.png
+Heinrich Klaasen,Batter,N,Y,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/202.png
+Upendra Singh Yadav,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1472.png
+Nitish Kumar Reddy,Batter,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1944.png
+Travis Head,Batter,N,Y,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+Abhishek Sharma,All-Rounder,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/212.png
+Marco Jansen,All-Rounder,N,Y,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/586.png
+Washington Sundar,All-Rounder,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/20.png
+Sanvir Singh,All-Rounder,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1943.png
+Wanindu Hasaranga,All-Rounder,N,Y,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+Pat Cummins,Bowler,Y,Y,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+Akash Singh,Bowler,N,N,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+Shahbaz Ahamad,Bowler,N,N,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+Bhuvneshwar Kumar,Bowler,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/15.png
+Fazalhaq Farooqi,Bowler,N,Y,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1011.png
+Jaydev Unadkat,Bowler,N,N,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
+T Natarajan,Bowler,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/224.png
+Umran Malik,Bowler,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/637.png
+Mayank Markande,Bowler,N,N,Sunrisers Hyderabad,https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/87.png
+Jhathavedh Subramanyan,Bowler,N,N,Sunrisers Hyderabad,https://www.iplt20.com/assets/images/default-headshot.png
